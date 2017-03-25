@@ -1,0 +1,12 @@
+{
+  "name": "Wonderful Unicorn",
+  "version": "0.1.0",
+  "description": "Simulation of Deadpool feeding of Unicorn",
+  "author": "GOUJON Kevin & NGUYEN An Ton",
+  
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/GoujonK/wonderful-unicorn"
+	},
+  
+  }
